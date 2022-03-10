@@ -1,1 +1,1 @@
-# tap-install
+Sample org structure for application catalog
